@@ -1,6 +1,5 @@
 ### Pedro Henrique ( 🔭 Backend Developer )
 
-### Technology
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![DotnetCore](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download)
 [![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
@@ -15,7 +14,6 @@
 [![Googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ____
-### Contribuições
  <div>
   <a href="https://github.com/PedrooBritoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooBritoo&layout=compact&langs_count=6"/>
