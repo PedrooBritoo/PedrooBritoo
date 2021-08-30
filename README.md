@@ -18,10 +18,10 @@ ____
 ### Contribuições
  <div>
   <a href="https://github.com/PedrooBritoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooBritoo"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooBritoo&layout=compact&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooBritoo&layout=compact&langs_count=6"/>
   </a>  
 </div>
 
 ____
-### Social
 <a href="https://www.linkedin.com/in/pedro-henrique-0b895428//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
